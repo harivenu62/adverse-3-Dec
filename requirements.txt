@@ -3,3 +3,6 @@ feedparser
 pandas
 requests
 matplotlib
+beautifulsoup4
+lxml
+
